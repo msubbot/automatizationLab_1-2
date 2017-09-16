@@ -1,0 +1,4 @@
+.idea
+entity/__pycache__
+entity/__pycache__/*.pyc
+*.pyo
